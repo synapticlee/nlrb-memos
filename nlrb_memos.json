@@ -1,71 +1,66 @@
 {
-  "last_updated": "2026-02-03T06:58:12.786575",
-  "memo_count": 13,
+  "last_updated": "2026-02-03T13:10:50.820984",
+  "memo_count": 12,
   "memos": [
     {
       "title": "Advice Memos",
       "url": "https://www.nlrb.gov/guidance/memos-research/advice-memos",
-      "found_date": "2026-02-03T06:58:12.785977"
+      "found_date": "2026-02-03T13:10:50.820394"
     },
     {
       "title": "Agency Court Filings",
       "url": "https://www.nlrb.gov/guidance/memos-research/agency-court-filings",
-      "found_date": "2026-02-03T06:58:12.785989"
+      "found_date": "2026-02-03T13:10:50.820408"
     },
     {
       "title": "Contempt, Compliance, and Special Litigation Branch Briefs",
       "url": "https://www.nlrb.gov/guidance/memos-research/agency-court-filings/contempt-compliance-and-special-litigation-branch",
-      "found_date": "2026-02-03T06:58:12.785996"
+      "found_date": "2026-02-03T13:10:50.820415"
     },
     {
       "title": "GC Collective Bargaining Resources",
       "url": "https://www.nlrb.gov/guidance/key-reference-materials/gc-collective-bargaining-resources",
-      "found_date": "2026-02-03T06:58:12.786058"
+      "found_date": "2026-02-03T13:10:50.820450"
     },
     {
       "title": "General Counsel Memos",
       "url": "https://www.nlrb.gov/guidance/memos-research/general-counsel-memos",
-      "found_date": "2026-02-03T06:58:12.785964"
+      "found_date": "2026-02-03T13:10:50.820385"
     },
     {
       "title": "Memo\n            Date",
       "url": "https://www.nlrb.gov/sort-case-decisions-nbd/memo_date+asc/general-counsel-memos/memo-date/all/all/20",
-      "found_date": "2026-02-03T06:58:12.786360"
+      "found_date": "2026-02-03T13:10:50.820759"
     },
     {
       "title": "Memo\n            Number",
       "url": "https://www.nlrb.gov/sort-case-decisions-nbd/memo_numberSort+asc/general-counsel-memos/memo-number/all/all/20",
-      "found_date": "2026-02-03T06:58:12.786351"
+      "found_date": "2026-02-03T13:10:50.820733"
     },
     {
       "title": "Memos & Research",
       "url": "https://www.nlrb.gov/guidance/memos-research",
-      "found_date": "2026-02-03T06:58:12.785952"
+      "found_date": "2026-02-03T13:10:50.820373"
     },
     {
       "title": "Memos & Research",
       "url": "https://www.nlrb.gov/guidance/memos-research",
-      "found_date": "2026-02-03T06:58:12.786310"
+      "found_date": "2026-02-03T13:10:50.820695"
     },
     {
       "title": "Operations-Management Memos",
       "url": "https://www.nlrb.gov/guidance/memos-research/operations-management-memos",
-      "found_date": "2026-02-03T06:58:12.785969"
+      "found_date": "2026-02-03T13:10:50.820390"
     },
     {
       "title": "Recently Released Advice Memos",
       "url": "https://www.nlrb.gov/guidance/memos-research/advice-memos/recently-released-advice-memos",
-      "found_date": "2026-02-03T06:58:12.785982"
-    },
-    {
-      "title": "Sign out",
-      "url": "https://www.nlrb.gov/user/logout?token=AZXgC-xR7oK5E1qPEw64D28PiEbsl2dDAuZ4itkFSn8",
-      "found_date": "2026-02-03T06:58:12.786315"
+      "found_date": "2026-02-03T13:10:50.820398"
     },
     {
       "title": "Subject",
       "url": "https://www.nlrb.gov/sort-case-decisions-nbd/document_subject+asc/general-counsel-memos/subject/all/all/20",
-      "found_date": "2026-02-03T06:58:12.786355"
+      "found_date": "2026-02-03T13:10:50.820754"
     }
   ]
 }
